@@ -34,7 +34,7 @@ Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten
 
 1. **Bibliotheken**: Folgende Libraries müssen in der `platformio.ini` vorhanden sein:
 * `bblanchon/ArduinoJson`
-# Die lokale Hersteller EPD-Library wird automatisch gefunden!
+*  Die lokale Hersteller EPD-Library wird automatisch gefunden!
 
 2. **Konfiguration**:
 * Trage deine WLAN-Zugangsdaten in der `main.cpp` ein.
@@ -44,7 +44,7 @@ Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten
 
 Dieses Projekt ist Teil meiner Serie für technisch interessierte Bastler und Tüftler.
 
-* **Webseite**: [prilchen.de][(https://prilchen.de/esp32-projekt-smart-weather-e-paper-display/](https://prilchen.de/arduino-projekt-ein-4-farben-e-paper-am-arduino-r4-wifi/))
+* **Webseite**: [prilchen.de](https://prilchen.de/esp32-projekt-smart-weather-e-paper-display/](https://prilchen.de/arduino-projekt-ein-4-farben-e-paper-am-arduino-r4-wifi/)
 * **YouTube**: [@prilchen](https://www.youtube.com/@prilchen)
 * **Standort**: Köln, Deutschland
 
