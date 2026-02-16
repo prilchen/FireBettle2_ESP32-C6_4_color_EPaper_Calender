@@ -33,9 +33,8 @@ Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten
 ## Software-Setup
 
 1. **Bibliotheken**: Folgende Libraries müssen in der `platformio.ini` vorhanden sein:
-* `zinggjm/GxEPD2`
 * `bblanchon/ArduinoJson`
-
+# Die lokale Hersteller EPD-Library wird automatisch gefunden!
 
 2. **Konfiguration**:
 * Trage deine WLAN-Zugangsdaten in der `main.cpp` ein.
