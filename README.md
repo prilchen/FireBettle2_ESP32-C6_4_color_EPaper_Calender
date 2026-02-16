@@ -1,4 +1,4 @@
-# FireBeetle2 4 Color E-Paper Weather Display
+# 4 Color E-Paper Weather Display with FireBeetle2 
 
 Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten der Open-Meteo API mit einem lokalen Kalender kombiniert und auf einem 4 Farb E-Paper Display anzeigt.
 
