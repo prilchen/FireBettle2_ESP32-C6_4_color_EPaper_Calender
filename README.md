@@ -1,6 +1,6 @@
-# FireBeetle2 E-Paper Weather & Calendar Display
+# FireBeetle2 4 Color E-Paper Weather Display
 
-Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten der Open-Meteo API mit einem lokalen Kalender kombiniert und auf einem 4.2" E-Paper Display anzeigt.
+Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten der Open-Meteo API mit einem lokalen Kalender kombiniert und auf einem 4 Farb E-Paper Display anzeigt.
 
 ![Wetter Kalender Projekt](https://prilchen.de/wp-content/uploads/2026/01/image-26-768x526.png)
 
