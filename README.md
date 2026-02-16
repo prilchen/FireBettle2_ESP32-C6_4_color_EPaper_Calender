@@ -17,7 +17,7 @@ Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten
 * **LiPo Akku**: Optional Lithium Polymer Akku 3,7 V 2000mAh
 * **Entwicklungsumgebung**: Visual Studio Code mit PlatformIO
 
-### Pin-Belegung (ESP32 WROOM-32)
+### Pin-Belegung (FireBeetle ESP32-C6)
 
 | E-Paper Pin | ESP32 Pin |
 | --- | --- |
