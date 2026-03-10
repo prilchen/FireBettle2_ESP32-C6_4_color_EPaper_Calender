@@ -24,7 +24,7 @@ Ein smartes Informationsdisplay auf Basis eines **FireBeetle2**, das Wetterdaten
 | **VCC** | **3,3V** |
 | **GND** | **GND** |
 | **DIN** (MOSI) | **GPIO 22** |
-| **CLK** (SCK) | **GPIO 21** |
+| **CLK** (SCK) | **GPIO 23** |
 | **CS** | **GPIO 8** |
 | **DC** | **GPIO 14** |
 | **RST** | **GPIO 1** |
